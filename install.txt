@@ -1,5 +1,11 @@
-lxml==4.9.1
-numpy==1.23.3
-opencv-python==4.6.0.66
-Pillow==9.2.0
-python-docx==0.8.11
+colorama==0.4.6
+comtypes==1.1.14
+distlib==0.3.4
+docx2pdf==0.1.8
+filelock==3.4.2
+platformdirs==2.5.0
+pystun3==1.0.0
+pywin32==305
+six==1.16.0
+tqdm==4.64.1
+virtualenv==20.13.1
