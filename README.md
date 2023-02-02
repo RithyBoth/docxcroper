@@ -1,4 +1,5 @@
 add Poppler to windows path
+
 install dependency from install.txt
 to start converting run python docrop.py arg[1] arg[2]
 
