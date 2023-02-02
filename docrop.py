@@ -7,7 +7,7 @@ input= sys.argv[1]
 output= sys.argv[2]
 
 # startnum =16
-document = docx.Document(f"Document/{input}")
+document = docx.Document({input})
 all_paras = document.paragraphs
 _number_indecator = 15
 def verify_indecator(i):
